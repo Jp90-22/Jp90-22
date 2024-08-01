@@ -92,7 +92,6 @@
 <br />
 
 ![Jp90-22's mosts used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jp90-22&show_icons=true&theme=tokyonight&locale=en&layout=compact)
-![Jp90-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp90-22&show_icons=true&theme=tokyonight&locale=en)
 
 <h4 align="right">🔎 Reach me here:</h3>
 
