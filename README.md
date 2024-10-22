@@ -5,13 +5,7 @@
 
 <br />
 
-- I’m currently working on **improve my career 🚀**
-
 - I’m currently learning about **cybersecurity | software architecture | Next.js 🌱**
-
-- I’m looking for help with **everything 🥴**
-
-- Ask me about **.NET | React 💬**
 
 - Fun fact: **I'm a typist and I like to beat my records ⌨️⚡**
 
